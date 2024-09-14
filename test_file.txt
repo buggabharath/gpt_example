@@ -1,3 +1,5 @@
 hey this is the test for git hub
 
 # i have started learning Generative AI
+
+# Understand the basic of NLP and transformer architecture
